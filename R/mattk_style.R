@@ -1,5 +1,6 @@
 #' Use Matt K style
 #' 
+#' @export 
 mattk_style <- function() {
     ggplot2::theme_set(theme_mattk)
     options(

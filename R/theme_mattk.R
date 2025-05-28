@@ -1,6 +1,6 @@
 #' Theme function for Matt K theme
 #' 
-#'  
+#' @export 
 theme_mattk <- function(base_size = 11, base_family = "sans") {
   ggplot2::theme_bw(base_size = base_size, base_family = base_family) +
     ggplot2::theme(

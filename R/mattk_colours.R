@@ -1,6 +1,7 @@
 #' Colours used by the package
 #'
-mattk_colours <- c(
+#' @export 
+mattk_colours <- list(
     "MKMint" = "#D5E9E3",
     "MKBeige" = "#EADBBE",
     "MKTan" = "#BEA87E",

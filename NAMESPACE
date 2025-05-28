@@ -2,4 +2,5 @@
 
 export(mattk_colours)
 export(mattk_style)
+export(scale_colour_mattk)
 export(theme_mattk)
